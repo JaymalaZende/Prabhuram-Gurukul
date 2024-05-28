@@ -1,6 +1,6 @@
 import React from 'react';
 
-const AdmissionProcess = () => {
+const Information = () => {
   return (
     <div className="bg-slate-300 container max-w-full px-8 py-6 rounded-lg shadow-lg mx-auto">
       <h1 className="text-3xl text-gray-800 font-extrabold font-serif mb-6">Admission Process</h1>
@@ -84,4 +84,4 @@ const AdmissionProcess = () => {
   );
 };
 
-export default AdmissionProcess;
+export default Information;
